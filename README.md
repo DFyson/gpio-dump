@@ -2,7 +2,7 @@
 Script for listening to traffic on a GPIO port, specifically I2C.
 
 gpio-dump
-~~~~~~~~~
+
 Set of scripts used for debugging the I2C interface by logging the GPIO ports and generating a plot of the SDA and SCL. 
 
 gpio-dump.py: program for dumping GPIO state changes to a file. More info in script.

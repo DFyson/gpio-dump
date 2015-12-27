@@ -19,6 +19,7 @@ ToDo:
 
 Changelog:
 2015-12-25: Created (Devon Fyson)
+
 '''
 
 from bs4 import BeautifulSoup  #http://www.crummy.com/software/BeautifulSoup/bs4/doc/
