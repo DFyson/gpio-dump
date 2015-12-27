@@ -1,0 +1,1426 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="100"
+   id="svg2"
+   version="1.1"
+   viewBox="0 0 800 100"
+   width="800"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="gpio-dump_LM75A.svg">
+  <metadata
+     id="metadata411">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1323"
+     inkscape:window-height="747"
+     id="namedview409"
+     showgrid="false"
+     inkscape:zoom="1.485"
+     inkscape:cx="252.46498"
+     inkscape:cy="25.44465"
+     inkscape:window-x="43"
+     inkscape:window-y="21"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g3900" />
+  <defs
+     id="defs3">
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow2Mend"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path4427"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#ff0000;stroke-opacity:1;fill:#ff0000;fill-opacity:1"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(0.6) rotate(180) translate(0,0)" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker6335"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mstart">
+      <path
+         transform="scale(0.6,0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path6337"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker6115"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mstart">
+      <path
+         transform="scale(0.6,0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path6117"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker5701"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mstart">
+      <path
+         transform="scale(0.6,0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path5703"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow2Mstart"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path4424"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#ff0000;stroke-opacity:1;fill:#ff0000;fill-opacity:1"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(0.6) translate(0,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lstart"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path4400"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#ff0000;stroke-width:1pt;stroke-opacity:1;fill:#ff0000;fill-opacity:1"
+         transform="scale(0.8) translate(12.5,0)" />
+    </marker>
+    <style
+       type="text/css"
+       id="style5">
+   .sda{
+				fill: royalblue;
+				stroke: none;
+				stroke-width: 1px;
+			}
+
+			.scl0{
+				fill: none;
+				stroke: black;
+				stroke-width: 1px;
+			}
+			.scl1{
+				fill: none;
+				stroke: black;
+				stroke-width: 0.25px;
+			}
+  </style>
+    <marker
+       inkscape:stockid="Arrow2Mstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mstart-7"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4424-8"
+         style="fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(0.6,0.6)" />
+    </marker>
+  </defs>
+  <g
+     transform="translate(0,50)"
+     id="g7">
+    <g
+       id="sda">
+      <rect
+         class="sda"
+         height="30"
+         width="20.0"
+         x="0.0"
+         y="-15"
+         id="rect10" />
+      <rect
+         class="sda"
+         height="30"
+         width="10.0"
+         x="29.9"
+         y="-15"
+         id="rect12" />
+      <rect
+         class="sda"
+         height="30"
+         width="10.0"
+         x="59.9"
+         y="-15"
+         id="rect14" />
+      <rect
+         class="sda"
+         height="30"
+         width="10.0"
+         x="219.9"
+         y="-15"
+         id="rect16" />
+      <rect
+         class="sda"
+         height="30"
+         width="10.0"
+         x="239.9"
+         y="-15"
+         id="rect18" />
+      <rect
+         class="sda"
+         height="30"
+         width="10.0"
+         x="269.9"
+         y="-15"
+         id="rect20" />
+      <rect
+         class="sda"
+         height="30"
+         width="10.0"
+         x="309.9"
+         y="-15"
+         id="rect22" />
+      <rect
+         class="sda"
+         height="30"
+         width="10.1"
+         x="359.9"
+         y="-15"
+         id="rect24" />
+      <rect
+         class="sda"
+         height="30"
+         width="10.0"
+         x="389.9"
+         y="-15"
+         id="rect26" />
+      <rect
+         class="sda"
+         height="30"
+         width="10.0"
+         x="439.9"
+         y="-15"
+         id="rect28" />
+      <rect
+         class="sda"
+         height="30"
+         width="10.0"
+         x="499.9"
+         y="-15"
+         id="rect30" />
+    </g>
+    <g
+       id="scl">
+      <path
+         class="scl0"
+         d="m 25.0,-15 0,30"
+         id="path33" />
+      <path
+         class="scl1"
+         d="m 0.0,-15 25.0,0"
+         id="path35" />
+      <path
+         class="scl1"
+         d="m 34.9,-15 0,30"
+         id="path37" />
+      <path
+         class="scl1"
+         d="m 25.0,15 9.9,0"
+         id="path39" />
+      <path
+         class="scl0"
+         d="m 39.9,-15 0,30"
+         id="path41" />
+      <path
+         class="scl1"
+         d="m 34.9,-15 5.0,0"
+         id="path43" />
+      <path
+         class="scl1"
+         d="m 44.9,-15 0,30"
+         id="path45" />
+      <path
+         class="scl1"
+         d="m 39.9,15 5.0,0"
+         id="path47" />
+      <path
+         class="scl0"
+         d="m 49.9,-15 0,30"
+         id="path49" />
+      <path
+         class="scl1"
+         d="m 44.9,-15 5.0,0"
+         id="path51" />
+      <path
+         class="scl1"
+         d="m 54.9,-15 0,30"
+         id="path53" />
+      <path
+         class="scl1"
+         d="m 49.9,15 5.0,0"
+         id="path55" />
+      <path
+         class="scl0"
+         d="m 59.9,-15 0,30"
+         id="path57" />
+      <path
+         class="scl1"
+         d="m 54.9,-15 5.0,0"
+         id="path59" />
+      <path
+         class="scl1"
+         d="m 64.9,-15 0,30"
+         id="path61" />
+      <path
+         class="scl1"
+         d="m 59.9,15 5.0,0"
+         id="path63" />
+      <path
+         class="scl0"
+         d="m 69.9,-15 0,30"
+         id="path65" />
+      <path
+         class="scl1"
+         d="m 64.9,-15 5.0,0"
+         id="path67" />
+      <path
+         class="scl1"
+         d="m 74.9,-15 0,30"
+         id="path69" />
+      <path
+         class="scl1"
+         d="m 69.9,15 5.0,0"
+         id="path71" />
+      <path
+         class="scl0"
+         d="m 79.9,-15 0,30"
+         id="path73" />
+      <path
+         class="scl1"
+         d="m 74.9,-15 5.0,0"
+         id="path75" />
+      <path
+         class="scl1"
+         d="m 84.9,-15 0,30"
+         id="path77" />
+      <path
+         class="scl1"
+         d="m 79.9,15 5.0,0"
+         id="path79" />
+      <path
+         class="scl0"
+         d="m 89.9,-15 0,30"
+         id="path81" />
+      <path
+         class="scl1"
+         d="m 84.9,-15 5.0,0"
+         id="path83" />
+      <path
+         class="scl1"
+         d="m 94.9,-15 0,30"
+         id="path85" />
+      <path
+         class="scl1"
+         d="m 89.9,15 5.0,0"
+         id="path87" />
+      <path
+         class="scl0"
+         d="m 99.9,-15 0,30"
+         id="path89" />
+      <path
+         class="scl1"
+         d="m 94.9,-15 5.0,0"
+         id="path91" />
+      <path
+         class="scl1"
+         d="m 104.9,-15 0,30"
+         id="path93" />
+      <path
+         class="scl1"
+         d="m 99.9,15 5.0,0"
+         id="path95" />
+      <path
+         class="scl0"
+         d="m 109.9,-15 0,30"
+         id="path97" />
+      <path
+         class="scl1"
+         d="m 104.9,-15 5.0,0"
+         id="path99" />
+      <path
+         class="scl1"
+         d="m 114.9,-15 0,30"
+         id="path101" />
+      <path
+         class="scl1"
+         d="m 109.9,15 5.0,0"
+         id="path103" />
+      <path
+         class="scl0"
+         d="m 119.9,-15 0,30"
+         id="path105" />
+      <path
+         class="scl1"
+         d="m 114.9,-15 5.0,0"
+         id="path107" />
+      <path
+         class="scl1"
+         d="m 124.9,-15 0,30"
+         id="path109" />
+      <path
+         class="scl1"
+         d="m 119.9,15 5.0,0"
+         id="path111" />
+      <path
+         class="scl0"
+         d="m 129.9,-15 0,30"
+         id="path113" />
+      <path
+         class="scl1"
+         d="m 124.9,-15 5.0,0"
+         id="path115" />
+      <path
+         class="scl1"
+         d="m 134.9,-15 0,30"
+         id="path117" />
+      <path
+         class="scl1"
+         d="m 129.9,15 5.0,0"
+         id="path119" />
+      <path
+         class="scl0"
+         d="m 139.9,-15 0,30"
+         id="path121" />
+      <path
+         class="scl1"
+         d="m 134.9,-15 5.0,0"
+         id="path123" />
+      <path
+         class="scl1"
+         d="m 144.9,-15 0,30"
+         id="path125" />
+      <path
+         class="scl1"
+         d="m 139.9,15 5.0,0"
+         id="path127" />
+      <path
+         class="scl0"
+         d="m 149.9,-15 0,30"
+         id="path129" />
+      <path
+         class="scl1"
+         d="m 144.9,-15 5.0,0"
+         id="path131" />
+      <path
+         class="scl1"
+         d="m 154.9,-15 0,30"
+         id="path133" />
+      <path
+         class="scl1"
+         d="m 149.9,15 5.0,0"
+         id="path135" />
+      <path
+         class="scl0"
+         d="m 159.9,-15 0,30"
+         id="path137" />
+      <path
+         class="scl1"
+         d="m 154.9,-15 5.0,0"
+         id="path139" />
+      <path
+         class="scl1"
+         d="m 164.9,-15 0,30"
+         id="path141" />
+      <path
+         class="scl1"
+         d="m 159.9,15 5.0,0"
+         id="path143" />
+      <path
+         class="scl0"
+         d="m 169.9,-15 0,30"
+         id="path145" />
+      <path
+         class="scl1"
+         d="m 164.9,-15 5.0,0"
+         id="path147" />
+      <path
+         class="scl1"
+         d="m 174.9,-15 0,30"
+         id="path149" />
+      <path
+         class="scl1"
+         d="m 169.9,15 5.0,0"
+         id="path151" />
+      <path
+         class="scl0"
+         d="m 179.9,-15 0,30"
+         id="path153" />
+      <path
+         class="scl1"
+         d="m 174.9,-15 5.0,0"
+         id="path155" />
+      <path
+         class="scl1"
+         d="m 184.9,-15 0,30"
+         id="path157" />
+      <path
+         class="scl1"
+         d="m 179.9,15 5.0,0"
+         id="path159" />
+      <path
+         class="scl0"
+         d="m 189.9,-15 0,30"
+         id="path161" />
+      <path
+         class="scl1"
+         d="m 184.9,-15 5.0,0"
+         id="path163" />
+      <path
+         class="scl1"
+         d="m 194.9,-15 0,30"
+         id="path165" />
+      <path
+         class="scl1"
+         d="m 189.9,15 5.0,0"
+         id="path167" />
+      <path
+         class="scl0"
+         d="m 199.9,-15 0,30"
+         id="path169" />
+      <path
+         class="scl1"
+         d="m 194.9,-15 5.0,0"
+         id="path171" />
+      <path
+         class="scl1"
+         d="m 204.9,-15 0,30"
+         id="path173" />
+      <path
+         class="scl1"
+         d="m 199.9,15 5.0,0"
+         id="path175" />
+      <path
+         class="scl0"
+         d="m 209.9,-15 0,30"
+         id="path177" />
+      <path
+         class="scl1"
+         d="m 204.9,-15 5.0,0"
+         id="path179" />
+      <path
+         class="scl1"
+         d="m 214.9,-15 0,30"
+         id="path181" />
+      <path
+         class="scl1"
+         d="m 209.9,15 5.0,0"
+         id="path183" />
+      <path
+         class="scl0"
+         d="m 235.4,-15 0,30"
+         id="path185" />
+      <path
+         class="scl1"
+         d="m 214.9,-15 20.5,0"
+         id="path187" />
+      <path
+         class="scl1"
+         d="m 244.9,-15 0,30"
+         id="path189" />
+      <path
+         class="scl1"
+         d="m 235.4,15 9.5,0"
+         id="path191" />
+      <path
+         class="scl0"
+         d="m 249.9,-15 0,30"
+         id="path193" />
+      <path
+         class="scl1"
+         d="m 244.9,-15 5.0,0"
+         id="path195" />
+      <path
+         class="scl1"
+         d="m 254.9,-15 0,30"
+         id="path197" />
+      <path
+         class="scl1"
+         d="m 249.9,15 5.0,0"
+         id="path199" />
+      <path
+         class="scl0"
+         d="m 260.4,-15 0,30"
+         id="path201" />
+      <path
+         class="scl1"
+         d="m 254.9,-15 5.5,0"
+         id="path203" />
+      <path
+         class="scl1"
+         d="m 264.9,-15 0,30"
+         id="path205" />
+      <path
+         class="scl1"
+         d="m 260.4,15 4.5,0"
+         id="path207" />
+      <path
+         class="scl0"
+         d="m 270.4,-15 0,30"
+         id="path209" />
+      <path
+         class="scl1"
+         d="m 264.9,-15 5.5,0"
+         id="path211" />
+      <path
+         class="scl1"
+         d="m 274.9,-15 0,30"
+         id="path213" />
+      <path
+         class="scl1"
+         d="m 270.4,15 4.5,0"
+         id="path215" />
+      <path
+         class="scl0"
+         d="m 279.9,-15 0,30"
+         id="path217" />
+      <path
+         class="scl1"
+         d="m 274.9,-15 5.0,0"
+         id="path219" />
+      <path
+         class="scl1"
+         d="m 284.9,-15 0,30"
+         id="path221" />
+      <path
+         class="scl1"
+         d="m 279.9,15 5.0,0"
+         id="path223" />
+      <path
+         class="scl0"
+         d="m 289.9,-15 0,30"
+         id="path225" />
+      <path
+         class="scl1"
+         d="m 284.9,-15 5.0,0"
+         id="path227" />
+      <path
+         class="scl1"
+         d="m 294.9,-15 0,30"
+         id="path229" />
+      <path
+         class="scl1"
+         d="m 289.9,15 5.0,0"
+         id="path231" />
+      <path
+         class="scl0"
+         d="m 300.4,-15 0,30"
+         id="path233" />
+      <path
+         class="scl1"
+         d="m 294.9,-15 5.5,0"
+         id="path235" />
+      <path
+         class="scl1"
+         d="m 304.9,-15 0,30"
+         id="path237" />
+      <path
+         class="scl1"
+         d="m 300.4,15 4.5,0"
+         id="path239" />
+      <path
+         class="scl0"
+         d="m 310.4,-15 0,30"
+         id="path241" />
+      <path
+         class="scl1"
+         d="m 304.9,-15 5.5,0"
+         id="path243" />
+      <path
+         class="scl1"
+         d="m 314.9,-15 0,30"
+         id="path245" />
+      <path
+         class="scl1"
+         d="m 310.4,15 4.5,0"
+         id="path247" />
+      <path
+         class="scl0"
+         d="m 319.9,-15 0,30"
+         id="path249" />
+      <path
+         class="scl1"
+         d="m 314.9,-15 5.0,0"
+         id="path251" />
+      <path
+         class="scl1"
+         d="m 324.9,-15 0,30"
+         id="path253" />
+      <path
+         class="scl1"
+         d="m 319.9,15 5.0,0"
+         id="path255" />
+      <path
+         class="scl0"
+         d="m 330.4,-15 0,30"
+         id="path257" />
+      <path
+         class="scl1"
+         d="m 324.9,-15 5.5,0"
+         id="path259" />
+      <path
+         class="scl1"
+         d="m 334.9,-15 0,30"
+         id="path261" />
+      <path
+         class="scl1"
+         d="m 330.4,15 4.5,0"
+         id="path263" />
+      <path
+         class="scl0"
+         d="m 340.4,-15 0,30"
+         id="path265" />
+      <path
+         class="scl1"
+         d="m 334.9,-15 5.5,0"
+         id="path267" />
+      <path
+         class="scl1"
+         d="m 344.9,-15 0,30"
+         id="path269" />
+      <path
+         class="scl1"
+         d="m 340.4,15 4.5,0"
+         id="path271" />
+      <path
+         class="scl0"
+         d="m 350.4,-15 0,30"
+         id="path273" />
+      <path
+         class="scl1"
+         d="m 344.9,-15 5.5,0"
+         id="path275" />
+      <path
+         class="scl1"
+         d="m 354.9,-15 0,30"
+         id="path277" />
+      <path
+         class="scl1"
+         d="m 350.4,15 4.5,0"
+         id="path279" />
+      <path
+         class="scl0"
+         d="m 360.4,-15 0,30"
+         id="path281" />
+      <path
+         class="scl1"
+         d="m 354.9,-15 5.5,0"
+         id="path283" />
+      <path
+         class="scl1"
+         d="m 364.9,-15 0,30"
+         id="path285" />
+      <path
+         class="scl1"
+         d="m 360.4,15 4.5,0"
+         id="path287" />
+      <path
+         class="scl0"
+         d="m 370.0,-15 0,30"
+         id="path289" />
+      <path
+         class="scl1"
+         d="m 364.9,-15 5.1,0"
+         id="path291" />
+      <path
+         class="scl1"
+         d="m 375.0,-15 0,30"
+         id="path293" />
+      <path
+         class="scl1"
+         d="m 370.0,15 5.0,0"
+         id="path295" />
+      <path
+         class="scl0"
+         d="m 380.4,-15 0,30"
+         id="path297" />
+      <path
+         class="scl1"
+         d="m 375.0,-15 5.4,0"
+         id="path299" />
+      <path
+         class="scl1"
+         d="m 384.9,-15 0,30"
+         id="path301" />
+      <path
+         class="scl1"
+         d="m 380.4,15 4.5,0"
+         id="path303" />
+      <path
+         class="scl0"
+         d="m 390.4,-15 0,30"
+         id="path305" />
+      <path
+         class="scl1"
+         d="m 384.9,-15 5.5,0"
+         id="path307" />
+      <path
+         class="scl1"
+         d="m 394.9,-15 0,30"
+         id="path309" />
+      <path
+         class="scl1"
+         d="m 390.4,15 4.5,0"
+         id="path311" />
+      <path
+         class="scl0"
+         d="m 399.9,-15 0,30"
+         id="path313" />
+      <path
+         class="scl1"
+         d="m 394.9,-15 5.0,0"
+         id="path315" />
+      <path
+         class="scl1"
+         d="m 404.9,-15 0,30"
+         id="path317" />
+      <path
+         class="scl1"
+         d="m 399.9,15 5.0,0"
+         id="path319" />
+      <path
+         class="scl0"
+         d="m 410.4,-15 0,30"
+         id="path321" />
+      <path
+         class="scl1"
+         d="m 404.9,-15 5.5,0"
+         id="path323" />
+      <path
+         class="scl1"
+         d="m 414.9,-15 0,30"
+         id="path325" />
+      <path
+         class="scl1"
+         d="m 410.4,15 4.5,0"
+         id="path327" />
+      <path
+         class="scl0"
+         d="m 420.4,-15 0,30"
+         id="path329" />
+      <path
+         class="scl1"
+         d="m 414.9,-15 5.5,0"
+         id="path331" />
+      <path
+         class="scl1"
+         d="m 424.9,-15 0,30"
+         id="path333" />
+      <path
+         class="scl1"
+         d="m 420.4,15 4.5,0"
+         id="path335" />
+      <path
+         class="scl0"
+         d="m 429.9,-15 0,30"
+         id="path337" />
+      <path
+         class="scl1"
+         d="m 424.9,-15 5.0,0"
+         id="path339" />
+      <path
+         class="scl1"
+         d="m 434.9,-15 0,30"
+         id="path341" />
+      <path
+         class="scl1"
+         d="m 429.9,15 5.0,0"
+         id="path343" />
+      <path
+         class="scl0"
+         d="m 440.4,-15 0,30"
+         id="path345" />
+      <path
+         class="scl1"
+         d="m 434.9,-15 5.5,0"
+         id="path347" />
+      <path
+         class="scl1"
+         d="m 444.9,-15 0,30"
+         id="path349" />
+      <path
+         class="scl1"
+         d="m 440.4,15 4.5,0"
+         id="path351" />
+      <path
+         class="scl0"
+         d="m 449.9,-15 0,30"
+         id="path353" />
+      <path
+         class="scl1"
+         d="m 444.9,-15 5.0,0"
+         id="path355" />
+      <path
+         class="scl1"
+         d="m 454.9,-15 0,30"
+         id="path357" />
+      <path
+         class="scl1"
+         d="m 449.9,15 5.0,0"
+         id="path359" />
+      <path
+         class="scl0"
+         d="m 459.9,-15 0,30"
+         id="path361" />
+      <path
+         class="scl1"
+         d="m 454.9,-15 5.0,0"
+         id="path363" />
+      <path
+         class="scl1"
+         d="m 464.9,-15 0,30"
+         id="path365" />
+      <path
+         class="scl1"
+         d="m 459.9,15 5.0,0"
+         id="path367" />
+      <path
+         class="scl0"
+         d="m 469.9,-15 0,30"
+         id="path369" />
+      <path
+         class="scl1"
+         d="m 464.9,-15 5.0,0"
+         id="path371" />
+      <path
+         class="scl1"
+         d="m 474.9,-15 0,30"
+         id="path373" />
+      <path
+         class="scl1"
+         d="m 469.9,15 5.0,0"
+         id="path375" />
+      <path
+         class="scl0"
+         d="m 479.9,-15 0,30"
+         id="path377" />
+      <path
+         class="scl1"
+         d="m 474.9,-15 5.0,0"
+         id="path379" />
+      <path
+         class="scl1"
+         d="m 484.9,-15 0,30"
+         id="path381" />
+      <path
+         class="scl1"
+         d="m 479.9,15 5.0,0"
+         id="path383" />
+      <path
+         class="scl0"
+         d="m 490.4,-15 0,30"
+         id="path385" />
+      <path
+         class="scl1"
+         d="m 484.9,-15 5.5,0"
+         id="path387" />
+      <path
+         class="scl1"
+         d="m 494.9,-15 0,30"
+         id="path389" />
+      <path
+         class="scl1"
+         d="m 490.4,15 4.5,0"
+         id="path391" />
+      <path
+         class="scl0"
+         d="m 500.4,-15 0,30"
+         id="path393" />
+      <path
+         class="scl1"
+         d="m 494.9,-15 5.5,0"
+         id="path395" />
+      <path
+         class="scl1"
+         d="m 504.9,-15 0,30"
+         id="path397" />
+      <path
+         class="scl1"
+         d="m 500.4,15 4.5,0"
+         id="path399" />
+      <path
+         class="scl0"
+         d="m 509.9,-15 0,30"
+         id="path401" />
+      <path
+         class="scl1"
+         d="m 504.9,-15 5.0,0"
+         id="path403" />
+      <path
+         class="scl1"
+         d="m 514.9,-15 0,30"
+         id="path405" />
+      <path
+         class="scl1"
+         d="m 509.9,15 5.0,0"
+         id="path407" />
+    </g>
+    <!--
+	<rect y="-20" x="0" height="40" width="10" class="sda" />
+	<path d="m 0,-30 0,60" class="scl0" />
+	<path d="m 0,30 10,0 0,-60 10,0" class="scl1" />
+-->
+  </g>
+  <g
+     id="g3845"
+     transform="translate(176.43097,0)">
+    <rect
+       y="74.801735"
+       x="63.663544"
+       height="5.9520798"
+       width="69.758347"
+       id="rect3741"
+       style="fill:#00ffff;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text3743"
+       y="79.782257"
+       x="102.7095"
+       style="font-style:normal;font-weight:normal;font-size:6.25px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-size:5px;text-align:center;text-anchor:middle"
+         y="79.782257"
+         x="102.7095"
+         id="tspan3745"
+         sodipodi:role="line">7bit address</tspan></text>
+  </g>
+  <g
+     id="g3761"
+     transform="translate(94.822559,0)">
+    <rect
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="rect3755"
+       width="80.577698"
+       height="5.9520798"
+       x="235.32144"
+       y="74.801735" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:6.25px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="275.81116"
+       y="79.782257"
+       id="text3757"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3759"
+         x="275.81116"
+         y="79.782257"
+         style="font-size:5px;text-align:center;text-anchor:middle">8bits data</tspan></text>
+  </g>
+  <g
+     transform="translate(184.34181,0)"
+     id="g3766">
+    <rect
+       y="74.801735"
+       x="235.32144"
+       height="5.9520798"
+       width="80.577698"
+       id="rect3768"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text3770"
+       y="79.782257"
+       x="275.81116"
+       style="font-style:normal;font-weight:normal;font-size:6.25px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-size:5px;text-align:center;text-anchor:middle"
+         y="79.782257"
+         x="275.81116"
+         id="tspan3772"
+         sodipodi:role="line">8bits data</tspan></text>
+  </g>
+  <g
+     id="g3791"
+     transform="translate(366.78495,0)">
+    <rect
+       y="74.801735"
+       x="133.36052"
+       height="5.9520798"
+       width="10.383347"
+       id="rect3793"
+       style="fill:#00ffff;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text3795"
+       y="63.689529"
+       x="173.54195"
+       style="font-style:normal;font-weight:normal;font-size:4.98932457px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"
+       transform="scale(0.79829191,1.2526746)"><tspan
+         style="font-size:3.99145961px;text-align:center;text-anchor:middle"
+         y="63.689529"
+         x="173.54195"
+         id="tspan3797"
+         sodipodi:role="line">NACK</tspan></text>
+  </g>
+  <g
+     transform="translate(276.88596,0)"
+     id="g3803">
+    <rect
+       style="fill:#00ffff;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="rect3805"
+       width="10.383347"
+       height="5.9520798"
+       x="133.36052"
+       y="74.801735" />
+    <text
+       transform="scale(0.94103779,1.0626566)"
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.88148642px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="147.19872"
+       y="75.078117"
+       id="text3807"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3809"
+         x="147.19872"
+         y="75.078117"
+         style="font-size:4.70518923px;text-align:center;text-anchor:middle">ACK</tspan></text>
+  </g>
+  <g
+     id="g3811"
+     transform="translate(186.21495,0)">
+    <rect
+       y="74.801735"
+       x="133.36052"
+       height="5.9520798"
+       width="10.383347"
+       id="rect3813"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text3815"
+       y="75.078117"
+       x="147.19872"
+       style="font-style:normal;font-weight:normal;font-size:5.88148642px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"
+       transform="scale(0.94103779,1.0626566)"><tspan
+         style="font-size:4.70518923px;text-align:center;text-anchor:middle"
+         y="75.078117"
+         x="147.19872"
+         id="tspan3817"
+         sodipodi:role="line">ACK</tspan></text>
+  </g>
+  <g
+     transform="translate(176.24434,0)"
+     id="g3819">
+    <rect
+       style="fill:#00ffff;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="rect3821"
+       width="10.383347"
+       height="5.9520798"
+       x="133.36052"
+       y="74.801735" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:6.25px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="138.46873"
+       y="79.782257"
+       id="text3757-1"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3759-9"
+         x="138.46873"
+         y="79.782257"
+         style="font-size:5px;text-align:center;text-anchor:middle">R</tspan></text>
+  </g>
+  <g
+     transform="translate(-33.67004,0)"
+     id="g3850">
+    <rect
+       style="fill:#00ffff;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="rect3852"
+       width="69.758347"
+       height="5.9520798"
+       x="63.663544"
+       y="74.801735" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:6.25px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="102.7095"
+       y="79.782257"
+       id="text3854"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3856"
+         x="102.7095"
+         y="79.782257"
+         style="font-size:5px;text-align:center;text-anchor:middle">7bit address</tspan></text>
+  </g>
+  <g
+     id="g3858"
+     transform="translate(-33.85667,0)">
+    <rect
+       y="74.801735"
+       x="133.36052"
+       height="5.9520798"
+       width="10.383347"
+       id="rect3860"
+       style="fill:#00ffff;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text3862"
+       y="79.782257"
+       x="138.46873"
+       style="font-style:normal;font-weight:normal;font-size:6.25px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-size:5px;text-align:center;text-anchor:middle"
+         y="79.782257"
+         x="138.46873"
+         id="tspan3864"
+         sodipodi:role="line">W</tspan></text>
+  </g>
+  <g
+     transform="translate(-115.20219,0)"
+     id="g3866">
+    <rect
+       y="74.801735"
+       x="235.32144"
+       height="5.9520798"
+       width="79.506325"
+       id="rect3868"
+       style="fill:#00ffff;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text3870"
+       y="79.782257"
+       x="275.81116"
+       style="font-style:normal;font-weight:normal;font-size:6.25px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-size:5px;text-align:center;text-anchor:middle"
+         y="79.782257"
+         x="275.81116"
+         id="tspan3872"
+         sodipodi:role="line">8bit pointer</tspan></text>
+  </g>
+  <g
+     transform="translate(66.407399,0)"
+     id="g3874">
+    <rect
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="rect3876"
+       width="10.383347"
+       height="5.9520798"
+       x="133.36052"
+       y="74.801735" />
+    <text
+       transform="scale(0.94103779,1.0626566)"
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.88148642px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="147.19872"
+       y="75.078117"
+       id="text3878"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3880"
+         x="147.19872"
+         y="75.078117"
+         style="font-size:4.70518923px;text-align:center;text-anchor:middle">ACK</tspan></text>
+  </g>
+  <g
+     id="g3882"
+     transform="translate(-23.54936,0)">
+    <rect
+       y="74.801735"
+       x="133.36052"
+       height="5.9520798"
+       width="10.383347"
+       id="rect3884"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text3886"
+       y="75.078117"
+       x="147.19872"
+       style="font-style:normal;font-weight:normal;font-size:5.88148642px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"
+       transform="scale(0.94103779,1.0626566)"><tspan
+         style="font-size:4.70518923px;text-align:center;text-anchor:middle"
+         y="75.078117"
+         x="147.19872"
+         id="tspan3888"
+         sodipodi:role="line">ACK</tspan></text>
+  </g>
+  <g
+     id="g3890"
+     transform="translate(76.844649,0)">
+    <rect
+       y="74.801735"
+       x="133.36052"
+       height="5.9520798"
+       width="29.668077"
+       id="rect3892"
+       style="fill:#00ffff;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text3894"
+       y="79.782257"
+       x="148.1111"
+       style="font-style:normal;font-weight:normal;font-size:6.25px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-size:5px;text-align:center;text-anchor:middle"
+         y="79.782257"
+         x="148.1111"
+         id="tspan3896"
+         sodipodi:role="line">restart</tspan></text>
+  </g>
+  <g
+     transform="translate(-133.30072,0)"
+     id="g3900">
+    <rect
+       style="fill:#00ffff;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="rect3902"
+       width="29.668077"
+       height="5.9520798"
+       x="133.36052"
+       y="74.801735" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:6.25px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="148.1111"
+       y="79.782257"
+       id="text3904"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3906"
+         x="148.1111"
+         y="79.782257"
+         style="font-size:5px;text-align:center;text-anchor:middle">start</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:6.25px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="140.03473"
+       y="14.814815"
+       id="text3591"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3593"
+         x="140.03473"
+         y="14.814815">LM75A temperature sensor @ 0x48</tspan><tspan
+         sodipodi:role="line"
+         x="140.03473"
+         y="22.627316"
+         id="tspan3595">pointer at 0x00 reading temperature.</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Arrow2Mstart-7)"
+       d="M 264.39717,33.307792 275.28131,23.298391"
+       id="path3594"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:6.25px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="276.5228"
+       y="25.289707"
+       id="text4722"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4724"
+         x="276.5228"
+         y="25.289707">SCL</tspan></text>
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path5695"
+       d="M 406.56171,33.307792 395.67757,23.298391"
+       style="fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker5701)" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text5697"
+       y="25.289707"
+       x="327.50174"
+       style="font-style:normal;font-weight:normal;font-size:6.25px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="25.289707"
+         x="327.50174"
+         id="tspan5699"
+         sodipodi:role="line">SDA: blue = high = 1</tspan></text>
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path6113"
+       d="m 304.07295,38.24306 8.40469,0"
+       style="fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker6115);marker-mid:url(#marker6335);marker-end:url(#Arrow2Mend)" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text8183"
+       y="24.218334"
+       x="299.77087"
+       style="font-style:normal;font-weight:normal;font-size:6.25px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="24.218334"
+         x="299.77087"
+         sodipodi:role="line"
+         id="tspan8529">clock</tspan><tspan
+         y="32.030834"
+         x="299.77087"
+         sodipodi:role="line"
+         id="tspan8533">cycle</tspan></text>
+  </g>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:6.25px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="42.592594"
+     y="33.501682"
+     id="text4718"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan4720"
+       x="42.592594"
+       y="33.501682" /></text>
+</svg>

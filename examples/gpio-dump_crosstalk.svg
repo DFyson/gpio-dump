@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg height="100" id="svg2" version="1.1" viewBox="0 0 800 100" width="800" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg">
+ <defs>
+  <style type="text/css">
+   .sda{
+				fill: royalblue;
+				stroke: none;
+				stroke-width: 1px;
+			}
+
+			.scl0{
+				fill: none;
+				stroke: black;
+				stroke-width: 1px;
+			}
+			.scl1{
+				fill: none;
+				stroke: black;
+				stroke-width: 0.25px;
+			}
+  </style>
+ </defs>
+ <g transform="translate(0,50)">
+  <g id="sda">
+   <rect class="sda" height="30" width="20.0" x="0.0" y="-15"/>
+   <rect class="sda" height="30" width="10.0" x="29.5" y="-15"/>
+   <rect class="sda" height="30" width="1.0" x="114.5" y="-15"/>
+   <rect class="sda" height="30" width="30.0" x="119.5" y="-15"/>
+   <rect class="sda" height="30" width="1.0" x="204.5" y="-15"/>
+   <rect class="sda" height="30" width="10.5" x="219.5" y="-15"/>
+   <rect class="sda" height="30" width="10.0" x="239.5" y="-15"/>
+   <rect class="sda" height="30" width="10.0" x="310.0" y="-15"/>
+   <rect class="sda" height="30" width="1.0" x="324.5" y="-15"/>
+   <rect class="sda" height="30" width="1.0" x="334.5" y="-15"/>
+   <rect class="sda" height="30" width="20.0" x="340.0" y="-15"/>
+   <rect class="sda" height="30" width="1.0" x="364.5" y="-15"/>
+   <rect class="sda" height="30" width="10.0" x="370.0" y="-15"/>
+   <rect class="sda" height="30" width="1.0" x="384.5" y="-15"/>
+   <rect class="sda" height="30" width="1.0" x="394.5" y="-15"/>
+   <rect class="sda" height="30" width="9.5" x="400.0" y="-15"/>
+   <rect class="sda" height="30" width="1.0" x="424.5" y="-15"/>
+   <rect class="sda" height="30" width="10.0" x="430.0" y="-15"/>
+   <rect class="sda" height="30" width="1.0" x="444.5" y="-15"/>
+   <rect class="sda" height="30" width="1.0" x="454.5" y="-15"/>
+   <rect class="sda" height="30" width="20.0" x="460.0" y="-15"/>
+   <rect class="sda" height="30" width="1.0" x="484.5" y="-15"/>
+   <rect class="sda" height="30" width="1.0" x="494.5" y="-15"/>
+   <rect class="sda" height="30" width="9.5" x="500.0" y="-15"/>
+  </g>
+  <g id="scl">
+   <path class="scl0" d="m 25.0,-15 0,30"/>
+   <path class="scl1" d="m 0.0,-15 25.0,0"/>
+   <path class="scl1" d="m 34.5,-15 0,30"/>
+   <path class="scl1" d="m 25.0,15 9.5,0"/>
+   <path class="scl0" d="m 39.5,-15 0,30"/>
+   <path class="scl1" d="m 34.5,-15 5.0,0"/>
+   <path class="scl1" d="m 44.5,-15 0,30"/>
+   <path class="scl1" d="m 39.5,15 5.0,0"/>
+   <path class="scl0" d="m 50.0,-15 0,30"/>
+   <path class="scl1" d="m 44.5,-15 5.5,0"/>
+   <path class="scl1" d="m 54.5,-15 0,30"/>
+   <path class="scl1" d="m 50.0,15 4.5,0"/>
+   <path class="scl0" d="m 60.0,-15 0,30"/>
+   <path class="scl1" d="m 54.5,-15 5.5,0"/>
+   <path class="scl1" d="m 64.5,-15 0,30"/>
+   <path class="scl1" d="m 60.0,15 4.5,0"/>
+   <path class="scl0" d="m 70.0,-15 0,30"/>
+   <path class="scl1" d="m 64.5,-15 5.5,0"/>
+   <path class="scl1" d="m 74.5,-15 0,30"/>
+   <path class="scl1" d="m 70.0,15 4.5,0"/>
+   <path class="scl0" d="m 80.0,-15 0,30"/>
+   <path class="scl1" d="m 74.5,-15 5.5,0"/>
+   <path class="scl1" d="m 84.5,-15 0,30"/>
+   <path class="scl1" d="m 80.0,15 4.5,0"/>
+   <path class="scl0" d="m 90.0,-15 0,30"/>
+   <path class="scl1" d="m 84.5,-15 5.5,0"/>
+   <path class="scl1" d="m 94.5,-15 0,30"/>
+   <path class="scl1" d="m 90.0,15 4.5,0"/>
+   <path class="scl0" d="m 100.0,-15 0,30"/>
+   <path class="scl1" d="m 94.5,-15 5.5,0"/>
+   <path class="scl1" d="m 104.5,-15 0,30"/>
+   <path class="scl1" d="m 100.0,15 4.5,0"/>
+   <path class="scl0" d="m 110.0,-15 0,30"/>
+   <path class="scl1" d="m 104.5,-15 5.5,0"/>
+   <path class="scl1" d="m 114.5,-15 0,30"/>
+   <path class="scl1" d="m 110.0,15 4.5,0"/>
+   <path class="scl0" d="m 120.0,-15 0,30"/>
+   <path class="scl1" d="m 114.5,-15 5.5,0"/>
+   <path class="scl1" d="m 124.5,-15 0,30"/>
+   <path class="scl1" d="m 120.0,15 4.5,0"/>
+   <path class="scl0" d="m 130.0,-15 0,30"/>
+   <path class="scl1" d="m 124.5,-15 5.5,0"/>
+   <path class="scl1" d="m 134.5,-15 0,30"/>
+   <path class="scl1" d="m 130.0,15 4.5,0"/>
+   <path class="scl0" d="m 140.0,-15 0,30"/>
+   <path class="scl1" d="m 134.5,-15 5.5,0"/>
+   <path class="scl1" d="m 144.5,-15 0,30"/>
+   <path class="scl1" d="m 140.0,15 4.5,0"/>
+   <path class="scl0" d="m 149.5,-15 0,30"/>
+   <path class="scl1" d="m 144.5,-15 5.0,0"/>
+   <path class="scl1" d="m 154.5,-15 0,30"/>
+   <path class="scl1" d="m 149.5,15 5.0,0"/>
+   <path class="scl0" d="m 160.0,-15 0,30"/>
+   <path class="scl1" d="m 154.5,-15 5.5,0"/>
+   <path class="scl1" d="m 164.5,-15 0,30"/>
+   <path class="scl1" d="m 160.0,15 4.5,0"/>
+   <path class="scl0" d="m 170.0,-15 0,30"/>
+   <path class="scl1" d="m 164.5,-15 5.5,0"/>
+   <path class="scl1" d="m 174.5,-15 0,30"/>
+   <path class="scl1" d="m 170.0,15 4.5,0"/>
+   <path class="scl0" d="m 180.0,-15 0,30"/>
+   <path class="scl1" d="m 174.5,-15 5.5,0"/>
+   <path class="scl1" d="m 184.5,-15 0,30"/>
+   <path class="scl1" d="m 180.0,15 4.5,0"/>
+   <path class="scl0" d="m 190.0,-15 0,30"/>
+   <path class="scl1" d="m 184.5,-15 5.5,0"/>
+   <path class="scl1" d="m 194.5,-15 0,30"/>
+   <path class="scl1" d="m 190.0,15 4.5,0"/>
+   <path class="scl0" d="m 200.0,-15 0,30"/>
+   <path class="scl1" d="m 194.5,-15 5.5,0"/>
+   <path class="scl1" d="m 204.5,-15 0,30"/>
+   <path class="scl1" d="m 200.0,15 4.5,0"/>
+   <path class="scl0" d="m 210.0,-15 0,30"/>
+   <path class="scl1" d="m 204.5,-15 5.5,0"/>
+   <path class="scl1" d="m 214.5,-15 0,30"/>
+   <path class="scl1" d="m 210.0,15 4.5,0"/>
+   <path class="scl0" d="m 235.0,-15 0,30"/>
+   <path class="scl1" d="m 214.5,-15 20.5,0"/>
+   <path class="scl1" d="m 245.0,-15 0,30"/>
+   <path class="scl1" d="m 235.0,15 10.0,0"/>
+   <path class="scl0" d="m 249.5,-15 0,30"/>
+   <path class="scl1" d="m 245.0,-15 4.5,0"/>
+   <path class="scl1" d="m 254.5,-15 0,30"/>
+   <path class="scl1" d="m 249.5,15 5.0,0"/>
+   <path class="scl0" d="m 260.0,-15 0,30"/>
+   <path class="scl1" d="m 254.5,-15 5.5,0"/>
+   <path class="scl1" d="m 264.5,-15 0,30"/>
+   <path class="scl1" d="m 260.0,15 4.5,0"/>
+   <path class="scl0" d="m 270.0,-15 0,30"/>
+   <path class="scl1" d="m 264.5,-15 5.5,0"/>
+   <path class="scl1" d="m 274.5,-15 0,30"/>
+   <path class="scl1" d="m 270.0,15 4.5,0"/>
+   <path class="scl0" d="m 280.0,-15 0,30"/>
+   <path class="scl1" d="m 274.5,-15 5.5,0"/>
+   <path class="scl1" d="m 284.5,-15 0,30"/>
+   <path class="scl1" d="m 280.0,15 4.5,0"/>
+   <path class="scl0" d="m 290.0,-15 0,30"/>
+   <path class="scl1" d="m 284.5,-15 5.5,0"/>
+   <path class="scl1" d="m 294.5,-15 0,30"/>
+   <path class="scl1" d="m 290.0,15 4.5,0"/>
+   <path class="scl0" d="m 300.0,-15 0,30"/>
+   <path class="scl1" d="m 294.5,-15 5.5,0"/>
+   <path class="scl1" d="m 304.5,-15 0,30"/>
+   <path class="scl1" d="m 300.0,15 4.5,0"/>
+   <path class="scl0" d="m 310.5,-15 0,30"/>
+   <path class="scl1" d="m 304.5,-15 6.0,0"/>
+   <path class="scl1" d="m 315.0,-15 0,30"/>
+   <path class="scl1" d="m 310.5,15 4.5,0"/>
+   <path class="scl0" d="m 319.5,-15 0,30"/>
+   <path class="scl1" d="m 315.0,-15 4.5,0"/>
+   <path class="scl1" d="m 324.5,-15 0,30"/>
+   <path class="scl1" d="m 319.5,15 5.0,0"/>
+   <path class="scl0" d="m 330.0,-15 0,30"/>
+   <path class="scl1" d="m 324.5,-15 5.5,0"/>
+   <path class="scl1" d="m 334.5,-15 0,30"/>
+   <path class="scl1" d="m 330.0,15 4.5,0"/>
+   <path class="scl0" d="m 340.5,-15 0,30"/>
+   <path class="scl1" d="m 334.5,-15 6.0,0"/>
+   <path class="scl1" d="m 345.0,-15 0,30"/>
+   <path class="scl1" d="m 340.5,15 4.5,0"/>
+   <path class="scl0" d="m 350.0,-15 0,30"/>
+   <path class="scl1" d="m 345.0,-15 5.0,0"/>
+   <path class="scl1" d="m 355.0,-15 0,30"/>
+   <path class="scl1" d="m 350.0,15 5.0,0"/>
+   <path class="scl0" d="m 359.5,-15 0,30"/>
+   <path class="scl1" d="m 355.0,-15 4.5,0"/>
+   <path class="scl1" d="m 364.5,-15 0,30"/>
+   <path class="scl1" d="m 359.5,15 5.0,0"/>
+   <path class="scl0" d="m 370.5,-15 0,30"/>
+   <path class="scl1" d="m 364.5,-15 6.0,0"/>
+   <path class="scl1" d="m 375.0,-15 0,30"/>
+   <path class="scl1" d="m 370.5,15 4.5,0"/>
+   <path class="scl0" d="m 379.5,-15 0,30"/>
+   <path class="scl1" d="m 375.0,-15 4.5,0"/>
+   <path class="scl1" d="m 384.5,-15 0,30"/>
+   <path class="scl1" d="m 379.5,15 5.0,0"/>
+   <path class="scl0" d="m 390.0,-15 0,30"/>
+   <path class="scl1" d="m 384.5,-15 5.5,0"/>
+   <path class="scl1" d="m 394.5,-15 0,30"/>
+   <path class="scl1" d="m 390.0,15 4.5,0"/>
+   <path class="scl0" d="m 400.5,-15 0,30"/>
+   <path class="scl1" d="m 394.5,-15 6.0,0"/>
+   <path class="scl1" d="m 404.5,-15 0,30"/>
+   <path class="scl1" d="m 400.5,15 4.0,0"/>
+   <path class="scl0" d="m 409.5,-15 0,30"/>
+   <path class="scl1" d="m 404.5,-15 5.0,0"/>
+   <path class="scl1" d="m 414.5,-15 0,30"/>
+   <path class="scl1" d="m 409.5,15 5.0,0"/>
+   <path class="scl0" d="m 420.0,-15 0,30"/>
+   <path class="scl1" d="m 414.5,-15 5.5,0"/>
+   <path class="scl1" d="m 424.5,-15 0,30"/>
+   <path class="scl1" d="m 420.0,15 4.5,0"/>
+   <path class="scl0" d="m 430.5,-15 0,30"/>
+   <path class="scl1" d="m 424.5,-15 6.0,0"/>
+   <path class="scl1" d="m 434.5,-15 0,30"/>
+   <path class="scl1" d="m 430.5,15 4.0,0"/>
+   <path class="scl0" d="m 439.5,-15 0,30"/>
+   <path class="scl1" d="m 434.5,-15 5.0,0"/>
+   <path class="scl1" d="m 444.5,-15 0,30"/>
+   <path class="scl1" d="m 439.5,15 5.0,0"/>
+   <path class="scl0" d="m 450.0,-15 0,30"/>
+   <path class="scl1" d="m 444.5,-15 5.5,0"/>
+   <path class="scl1" d="m 454.5,-15 0,30"/>
+   <path class="scl1" d="m 450.0,15 4.5,0"/>
+   <path class="scl0" d="m 460.5,-15 0,30"/>
+   <path class="scl1" d="m 454.5,-15 6.0,0"/>
+   <path class="scl1" d="m 465.0,-15 0,30"/>
+   <path class="scl1" d="m 460.5,15 4.5,0"/>
+   <path class="scl0" d="m 470.0,-15 0,30"/>
+   <path class="scl1" d="m 465.0,-15 5.0,0"/>
+   <path class="scl1" d="m 475.0,-15 0,30"/>
+   <path class="scl1" d="m 470.0,15 5.0,0"/>
+   <path class="scl0" d="m 479.5,-15 0,30"/>
+   <path class="scl1" d="m 475.0,-15 4.5,0"/>
+   <path class="scl1" d="m 484.5,-15 0,30"/>
+   <path class="scl1" d="m 479.5,15 5.0,0"/>
+   <path class="scl0" d="m 490.0,-15 0,30"/>
+   <path class="scl1" d="m 484.5,-15 5.5,0"/>
+   <path class="scl1" d="m 494.5,-15 0,30"/>
+   <path class="scl1" d="m 490.0,15 4.5,0"/>
+   <path class="scl0" d="m 500.5,-15 0,30"/>
+   <path class="scl1" d="m 494.5,-15 6.0,0"/>
+   <path class="scl1" d="m 505.0,-15 0,30"/>
+   <path class="scl1" d="m 500.5,15 4.5,0"/>
+   <path class="scl0" d="m 509.5,-15 0,30"/>
+   <path class="scl1" d="m 505.0,-15 4.5,0"/>
+   <path class="scl1" d="m 514.5,-15 0,30"/>
+   <path class="scl1" d="m 509.5,15 5.0,0"/>
+  </g>
+  <!--
+	<rect y="-20" x="0" height="40" width="10" class="sda" />
+	<path d="m 0,-30 0,60" class="scl0" />
+	<path d="m 0,30 10,0 0,-60 10,0" class="scl1" />
+-->
+ </g>
+</svg>
